@@ -1,4 +1,4 @@
-Learnt Data Visualization and Data Analytics with Tableau by solving Realistic Analytics Projects.
+# Learnt Data Visualization and Data Analytics with Tableau by solving Realistic Analytics Projects.
 
- 1. Public Grievance Analysis 
+  ## 1. Public Grievance Analysis 
  
