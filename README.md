@@ -10,11 +10,11 @@
   ![Public Grievances Dashboard](https://user-images.githubusercontent.com/83588611/117000147-425d1800-acfe-11eb-895d-eea29ec743db.png)
   
   ## 2. Airline Data Analysis Dashboard
-  
+  ![Final_Dashboard](https://user-images.githubusercontent.com/83588611/117292761-31dba780-ae8e-11eb-991c-ab1707002fe8.png)
 
 # What i learnt in Tableau !
 
-1.To Create 3 interactive dashboards and publish it online to share
+1.To Create interactive dashboards and publish it online to share
 
 2.Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
